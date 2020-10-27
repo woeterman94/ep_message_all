@@ -24,5 +24,9 @@
     "users",
     "notify"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "http://etherpad.org/"
+  }
 }
